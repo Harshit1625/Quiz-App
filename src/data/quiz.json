@@ -1,0 +1,54 @@
+[
+    {
+        "title": "General purpose computer are used for:",
+        "options": ["Creating a small database", "Performs calculation", "Accounting", "All of them"],
+        "answer": "All of them"
+    },
+    {
+        "title": "The basic goal of the computer process is to convert data into:",
+        "options": ["Graphs", "Files", "Tables", "Information"],
+        "answer": "Information"
+    },
+    {
+        "title": "The following has highest Access time:",
+        "options": ["Magnetic disk", "Swapping devices", "Floppy disk", "Cache"],
+        "answer": "Magnetic disk"
+    },
+    {
+        "title": "Error detection at data link level is achieved by the following:",
+        "options": ["Equalization", "Bit stuffing", "Hamming code", "Cyclic redundancy codes"],
+        "answer": "Cyclic redundancy codes"
+    },
+    {
+        "title": "A hardware device that is capable of executing a sequence of instructions is called:",
+        "options": ["CU", "Processor", "CPU", "ALU"],
+        "answer": "Processor"
+    },
+    {
+        "title": "Computers that are portable and convenient for users who travel are known as:",
+        "options": ["Laptops", "File servers", "Supercomputers", "Minicomputers"],
+        "answer": "Laptops"
+    },
+    {
+        "title": "To transfer electronic mail from one machine to another, the following TCP/IP protocol is used:",
+        "options": ["RPC", "FTP", "SNMP", "SMTP"],
+        "answer": "SMTP"
+    },
+    {
+        "title": "High-resolution, bit-mapped displays are useful for displaying:",
+        "options": ["More characters", "Clearer characters", "Graphics", "All of the above"],
+        "answer": "More characters"
+    },
+    {
+        "title": "The average number of comparisons in sequential search is:",
+        "options": ["n2", "(n+1)/2", "n(n+2)/2", "n+2/2"],
+        "answer": "(n+1)/2"
+    },
+    {
+        "title": "The last DML statement processed during a commit transaction is?",
+        "options": ["INSERT", "UPDATE", "DELETE", "POST"],
+        "answer": "INSERT"
+    }
+]
+
+
